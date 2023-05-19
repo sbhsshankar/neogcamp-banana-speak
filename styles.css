@@ -1,0 +1,33 @@
+
+textarea{
+    width: 95%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;    
+}
+
+
+#output{
+    border: 1px black solid;
+    height: 40vh;
+    width: 50%;
+    margin: 1rem;
+    margin-left: 25%;
+    padding: 1rem;
+
+}
+
+#nameOne{
+    color: aquamarine;
+    text-align: center;
+}
+
+#btn-translate{
+    color: red;
+    background-color: aqua;
+    padding: 0.5rem 0.5rem;
+    margin-left: 50%;
+    
+    
+}
