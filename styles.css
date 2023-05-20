@@ -1,7 +1,11 @@
 
+#hero{
+    text-align: center;
+}
+
 textarea{
     width: 95%;
-    height: 10vh;
+    height: 15vh;
     display: block;
     margin: 1rem;
     padding: 1rem;    
@@ -18,16 +22,13 @@ textarea{
 
 }
 
-#nameOne{
-    color: aquamarine;
-    text-align: center;
-}
 
 #btn-translate{
-    color: red;
-    background-color: aqua;
-    padding: 0.5rem 0.5rem;
-    margin-left: 50%;
+    color: whitesmoke;
+    background-color: rgb(101, 150, 101);
+    padding: 0.5rem 1rem;
+    margin-left:47%;
+    border-radius: 0.5rem;
     
     
 }
